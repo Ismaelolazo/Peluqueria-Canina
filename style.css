@@ -1,0 +1,105 @@
+/* Estilos para el header y navbar */
+header {
+    background-color: #fff;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  .nav-link {
+    color: #333;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-right: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    color: #17a2b8;
+  }
+  
+  /* Estilos para la imagen */
+  img {
+    border-radius: 5px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    max-width: 100%;
+  }
+  
+  /* Estilos para las secciones */
+  section h2 {
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  section p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+  
+  section ul {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
+  
+  section li {
+    margin-bottom: 10px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  footer .list-inline-item {
+    margin-left: 10px;
+  }
+  
+  footer .list-inline-item:first-child {
+    margin-left: 0;
+  }
+  
+  footer .fab {
+    color: #fff;
+    font-size: 24px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  footer .fab:hover {
+    color: #17a2b8;
+  }
