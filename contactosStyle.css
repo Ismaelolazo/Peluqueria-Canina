@@ -1,0 +1,13 @@
+body{
+    background-color: #c47272;
+    font-size: 16px;
+    color: #333;
+    
+    padding: 0;
+    
+    width: 800px;
+    margin: 0 auto;
+}
+.centrar{
+    align-items: center;
+}
