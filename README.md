@@ -1,2 +1,0 @@
-# Peluqueria-Canina
-Practica GitHub
